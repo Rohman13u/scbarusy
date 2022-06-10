@@ -30,11 +30,11 @@
   global.packname = 'Ova Botz' // Sticker Weem
   global.author = 'Ova' // Sticker Weem
   global.webme = 'https://wa.me/p/5258349800854856/6285878105774' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HqyJhuB6p3Y1Kf9w0C19VD' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/ova' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/ioga.26' // Ganti Sama Link Ig mu
+  global.instagram = 'https://instagram.com/do_you_know_ova' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
